@@ -1,6 +1,4 @@
-# Port-Scanner
-
-# Enhanced Port Scanner
+# PortScanner
 
 This Python-based port scanner allows you to scan a range of ports on a remote server (IP address) to check which ports are open or closed. It includes features such as parallel port scanning, verbose output, custom timeouts, and scanning of common ports like HTTP, HTTPS, FTP, etc.
 
